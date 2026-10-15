@@ -13,7 +13,7 @@
 
 ## 发行约定
 
-- 正式版标签使用 `v<major>.<minor>.<patch>`，例如 `v0.1.0`。
+- 正式版标签使用 `v<major>.<minor>.<patch>`，例如 `v0.1.1`。
 - Release 标题只使用产品名和版本号；更新说明默认使用英文，包含系统要求及支持的处理器架构。
 - 安装包使用 `Bubboo-<version>-<arch>.zip` 或 `.dmg`；`arch` 为实际构建的 `arm64`、`x86_64` 或 `universal`。
 - Release 附带 `SHA256SUMS`；第三方许可证及声明保留在 App 包内，不再单独上传声明附件。
