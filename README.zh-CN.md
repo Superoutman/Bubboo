@@ -40,7 +40,11 @@
 ## 扩展下载
 
 <!-- extension-table:start -->
-**31 个已验收扩展。** 并非所有 PopClip 扩展都能直接用于 Bubboo。这份列表集中提供经过验收的下载包、最低 App 版本和作者信息，减少自行寻找、判断兼容性和反复试装的麻烦。点击扩展名称可查看适配说明及使用限制。
+扩展让 Bubboo 不止于内置动作：你可以为选中的文字选择不同的搜索服务、进行翻译和文本处理，或连接自己常用的工具。按工作习惯选择所需动作，就能组合出更适合自己的划词工具栏。
+
+整理这份列表，是为了让扩展更容易被发现、比较和安装。下载入口、最低 App 版本、原作者及适配说明集中在同一处，减少四处寻找下载包、判断兼容性和反复试装的成本。项目希望在尊重原作者工作的基础上，为用户提供更多实用选择，也让每个扩展的来源与改动清晰可查。
+
+**下表提供 31 个已验收扩展。** 收录前会检查兼容性并在 Bubboo 中实际测试；它是一份便于上手的精选目录，并非 PopClip 扩展的完整集合。部分扩展需要适配，点击名称即可了解来源、改动及已验证的使用范围，再决定是否安装。
 
 **安装与更新：** 下载下表中的 `.popclipextz` 文件，在设置中导入并启用；有选项的扩展也在设置中配置。Bubboo 0.1.4 打开设置时检查扩展更新，结果缓存 6 小时。手动升级会保留配置，内容变化后需重新启用授权。扩展版本与 App 版本独立，升级前请检查表格中的最低 App 版本。
 
@@ -80,7 +84,15 @@
 | [Wikipedia](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/NOTICE.md) | 维基百科，可选语言站点 | 0.1.0 | 0.1.2 | [Nicholas Moore and contributors](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/NOTICE.md) · [MIT](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/LICENSE.txt) | [下载 / Download](https://github.com/Superoutman/Bubboo-Extensions/releases/download/v0.1.3/Wikipedia-0.1.0.popclipextz) |
 | [YouTube](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/NOTICE.md) | 视频搜索 | 0.1.0 | 0.1.2 | [Nicholas Moore and contributors](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/NOTICE.md) · [MIT](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/LICENSE.txt) | [下载 / Download](https://github.com/Superoutman/Bubboo-Extensions/releases/download/v0.1.3/YouTube-0.1.0.popclipextz) |
 
-**版权与来源：** 扩展版权归原作者及相应权利人所有。Bubboo 的收录、适配和分发不代表拥有原作版权，也不表示原作者或 PopClip 官方认可本项目。每个包保留署名、适用许可证、来源及改动说明。表格中的 MIT 指代码，图标可能适用其他许可，例如 Amazon 图标由 Dave Gandy 创作，适用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。再使用或分发前请查看包内文件；署名或许可有误可通过[扩展仓库 Issues](https://github.com/Superoutman/Bubboo-Extensions/issues)提供扩展名称和相关来源，以便核查。
+## 版权与来源 / Copyright and attribution
+
+扩展版权归原作者及相应权利人所有。Bubboo 对扩展的收录、兼容适配和分发，不代表拥有原作版权，也不表示原作者或 PopClip 官方认可或参与本项目。Bubboo 与 PopClip 是独立项目。
+
+每个包保留原作者署名、适用许可证和来源记录；适配改动在 `NOTICE.md` 中说明。代码、图标等资源可能适用不同许可，使用或再分发时请查看包内文件。下载表格中的 MIT 指扩展代码；例如 Amazon 图标由 Dave Gandy 创作，适用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
+
+Copyright remains with the original authors and respective rights holders. Inclusion, adaptation and distribution do not transfer ownership or imply endorsement by the authors or PopClip. Packages retain attribution, license notices, provenance and documented changes. Code and artwork may have different licenses; review the package files before reuse or redistribution.
+
+如发现署名、许可或收录有误，请通过 [Issues](https://github.com/Superoutman/Bubboo-Extensions/issues) 提供扩展名称、相关来源和问题说明，以便核查处理。Please report attribution, licensing or inclusion concerns with the extension name and relevant source information.
 
 <!-- extension-table:end -->
 

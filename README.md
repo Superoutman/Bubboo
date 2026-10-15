@@ -38,7 +38,11 @@ New or modified extensions are disabled until you explicitly enable them. Script
 ## Extensions
 
 <!-- extension-table:start -->
-**31 tested extensions.** Not every PopClip extension works in Bubboo. This list brings tested downloads, minimum App versions and author information together, so you can choose compatible tools without repeated trial installs. Adaptations and limitations are documented through each extension's name link.
+Bubboo extensions give you more ways to work with selected text: search different services, translate, reformat text, or connect a task to a tool you already use. Choose the actions that suit your workflow and keep your toolbar focused on what you need.
+
+This collection makes extensions easier to discover, compare and install. It brings downloads, minimum App versions, original authors and adaptation notes into one place, reducing the effort of finding packages and checking whether they work. The aim is to offer more useful choices while preserving the original creators' work and making sources and changes easy to inspect.
+
+**31 tested extensions are available below.** Packages are included after compatibility review and real-use testing in Bubboo; this is a curated starting point, not a complete catalog of PopClip extensions. Some packages need adaptations. Open an extension's name to review its source, changes and tested limitations before installing.
 
 **Install and update:** Download a `.popclipextz` package below, import it in Settings and enable it. Configure available options there. Bubboo 0.1.4 checks for extension updates when Settings opens, with a six-hour cache. Upgrade manually; your settings are retained and changed content requires renewed approval. Extension versions are independent of App versions; check the minimum App version in the table.
 
@@ -78,7 +82,15 @@ New or modified extensions are disabled until you explicitly enable them. Script
 | [Wikipedia](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/NOTICE.md) | 维基百科，可选语言站点 | 0.1.0 | 0.1.2 | [Nicholas Moore and contributors](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/NOTICE.md) · [MIT](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/LICENSE.txt) | [下载 / Download](https://github.com/Superoutman/Bubboo-Extensions/releases/download/v0.1.3/Wikipedia-0.1.0.popclipextz) |
 | [YouTube](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/NOTICE.md) | 视频搜索 | 0.1.0 | 0.1.2 | [Nicholas Moore and contributors](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/NOTICE.md) · [MIT](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/LICENSE.txt) | [下载 / Download](https://github.com/Superoutman/Bubboo-Extensions/releases/download/v0.1.3/YouTube-0.1.0.popclipextz) |
 
-**Copyright and attribution:** Extension copyright remains with the original authors and respective rights holders. Inclusion and adaptation do not transfer ownership or imply endorsement by the authors or PopClip. Packages retain attribution, applicable licenses, provenance and change notes. MIT in the table refers to code; artwork may have separate terms—for example, Amazon's icon by Dave Gandy uses [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Review package files before reuse or redistribution. Report [attribution or licensing concerns](https://github.com/Superoutman/Bubboo-Extensions/issues) with the extension name and relevant source information.
+## 版权与来源 / Copyright and attribution
+
+扩展版权归原作者及相应权利人所有。Bubboo 对扩展的收录、兼容适配和分发，不代表拥有原作版权，也不表示原作者或 PopClip 官方认可或参与本项目。Bubboo 与 PopClip 是独立项目。
+
+每个包保留原作者署名、适用许可证和来源记录；适配改动在 `NOTICE.md` 中说明。代码、图标等资源可能适用不同许可，使用或再分发时请查看包内文件。下载表格中的 MIT 指扩展代码；例如 Amazon 图标由 Dave Gandy 创作，适用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
+
+Copyright remains with the original authors and respective rights holders. Inclusion, adaptation and distribution do not transfer ownership or imply endorsement by the authors or PopClip. Packages retain attribution, license notices, provenance and documented changes. Code and artwork may have different licenses; review the package files before reuse or redistribution.
+
+如发现署名、许可或收录有误，请通过 [Issues](https://github.com/Superoutman/Bubboo-Extensions/issues) 提供扩展名称、相关来源和问题说明，以便核查处理。Please report attribution, licensing or inclusion concerns with the extension name and relevant source information.
 
 <!-- extension-table:end -->
 
