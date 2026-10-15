@@ -11,6 +11,8 @@ Bubboo brings instant actions to selected text on your Mac. A lightweight floati
 - Copy, paste, and search the web.
 - Import `.popclipext` / `.popclipextz` extensions, with support for selected URL, Shell, AppleScript, and JavaScript actions.
 - Customize the toolbar and manage extensions in native macOS settings.
+- Manually check for curated extension updates and upgrade individual packages while keeping their settings. Changed content requires fresh approval; extensions are never upgraded automatically.
+- Remove installed extensions to the Trash, or open the curated download collection from Settings.
 - English and Simplified Chinese follow your system’s preferred language. Other languages fall back to English.
 
 Browse the [13 curated extensions](https://github.com/Superoutman/Bubboo-Extensions) tested with Bubboo 0.1.2. Supported extension options are editable in Settings; missing required applications are labelled. Extension compatibility is evolving; not all PopClip extensions are supported.
@@ -19,7 +21,7 @@ Browse the [13 curated extensions](https://github.com/Superoutman/Bubboo-Extensi
 
 **Requires macOS 14.0 (Sonoma) or later.**
 
-**Current version: 0.1.2 · Apple Silicon (M-series chips).**
+**Current version: 0.1.3 · Apple Silicon (M-series chips).**
 
 The app is signed with Developer ID and notarized by Apple. An Intel build is not currently available.
 
