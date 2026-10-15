@@ -14,7 +14,7 @@
 
 ## 下载与更新
 
-**最低系统要求：macOS 14.0（Sonoma）或更高版本。** 设置界面与浮动工具条的磨砂材质也适用于这一系统范围，无需 macOS 26。
+**最低系统要求：macOS 14.0（Sonoma）或更高版本。**
 
 **目前尚未发布公开安装包。** 首个正式版本发布后，安装包、校验值与更新说明将在 [Releases](https://github.com/Superoutman/Bubboo/releases) 提供。
 
