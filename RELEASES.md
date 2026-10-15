@@ -18,4 +18,12 @@
 - 预发布版本标记为 prerelease，不作为最新稳定版。
 - 已发布的版本不覆盖安装包；修正通过新版本发布。
 
-当前尚未接入应用内自动更新，也未提供 Sparkle appcast。未来更新客户端及 feed 必须基于本仓库已发布、可验证的 Release 资产建立，不使用私有源码仓库作为用户下载来源。
+## 应用内自动更新
+
+固定 feed：https://raw.githubusercontent.com/Superoutman/Bubboo/main/appcast.xml
+
+Bubboo 使用 Sparkle 检查、下载、验证签名并安装更新。后台下载完成后可在退出时安装，也可点击设置中的绿色版本提示立即升级；关于页提供自动检查和自动下载安装开关。
+
+目前 appcast 只有空 channel，表示尚未发布正式安装包。未来条目必须指向本仓库已发布的 Release 安装包，并包含 Sparkle EdDSA 签名、构建号、显示版本、最低系统要求及适用的硬件要求。先验证 Release 附件可下载，再更新 appcast；保留兼容旧系统和处理器的历史条目。
+
+此 feed 地址是已安装客户端依赖的长期入口，不得随意删除或迁移。
