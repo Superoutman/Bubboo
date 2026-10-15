@@ -13,13 +13,13 @@ Bubboo brings instant actions to selected text on your Mac. A lightweight floati
 - Customize the toolbar and manage extensions in native macOS settings.
 - English and Simplified Chinese follow your system’s preferred language. Other languages fall back to English.
 
-Extension compatibility is evolving; not all PopClip extensions are supported.
+Browse the [13 curated extensions](https://github.com/Superoutman/Bubboo-Extensions) tested with Bubboo 0.1.2. Supported extension options are editable in Settings; missing required applications are labelled. Extension compatibility is evolving; not all PopClip extensions are supported.
 
 ## Downloads and updates
 
 **Requires macOS 14.0 (Sonoma) or later.**
 
-**Current version: 0.1.1 · Apple Silicon (M-series chips).**
+**Current version: 0.1.2 · Apple Silicon (M-series chips).**
 
 The app is signed with Developer ID and notarized by Apple. An Intel build is not currently available.
 

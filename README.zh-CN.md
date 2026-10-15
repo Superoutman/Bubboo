@@ -19,7 +19,7 @@
 
 **最低系统要求：macOS 14.0（Sonoma）或更高版本。**
 
-**当前版本：0.1.1 · Apple Silicon（M 系列芯片）。**
+**当前版本：0.1.2 · Apple Silicon（M 系列芯片）。**
 
 安装包已完成 Developer ID 签名及 Apple 公证，暂不提供 Intel 版本。
 
@@ -42,3 +42,5 @@
 Bubboo 为独立产品，与 PopClip 无隶属关系。发行包随附适用的第三方许可和声明。
 
 发布渠道与文件约定见 [发布渠道](RELEASES.zh-CN.md)。
+
+精选扩展：[13 个已验收插件](https://github.com/Superoutman/Bubboo-Extensions)，兼容 Bubboo 0.1.2。设置支持扩展选项及缺失依赖提示，长列表在限高窗口中滚动。
