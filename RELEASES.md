@@ -1,29 +1,31 @@
-# 发布渠道
+# Release channels
 
-## 唯一公开真源
+English | [简体中文](RELEASES.zh-CN.md)
 
-- 产品说明：https://github.com/Superoutman/Bubboo
-- 所有版本与下载：https://github.com/Superoutman/Bubboo/releases
-- 最新稳定版：https://github.com/Superoutman/Bubboo/releases/latest
-- 稳定版元数据：https://api.github.com/repos/Superoutman/Bubboo/releases/latest
+## Official sources
 
-当前稳定版本为 **0.1.1（build 2）**，适用于 macOS 14.0 及更高版本的 Apple Silicon Mac。
+- [Product information](https://github.com/Superoutman/Bubboo)
+- [All releases and downloads](https://github.com/Superoutman/Bubboo/releases)
+- [Latest stable release](https://github.com/Superoutman/Bubboo/releases/latest)
+- [Stable release metadata](https://api.github.com/repos/Superoutman/Bubboo/releases/latest)
 
-## 发行约定
+The current stable version is **0.1.1 (build 2)** for Apple Silicon Macs running macOS 14.0 or later.
 
-- 正式版标签使用 `v<major>.<minor>.<patch>`，例如 `v0.1.0`。
-- 每个版本的 Release 正文提供用户可读的更新说明、系统要求及支持的处理器架构。
-- 安装包使用 `Bubboo-<version>-<arch>.zip` 或 `.dmg`；`arch` 为实际构建的 `arm64`、`x86_64` 或 `universal`。
-- 同一 Release 附带 `SHA256SUMS` 和 `THIRD_PARTY_NOTICES.txt`，随包保留所需第三方完整许可证。
-- 预发布版本标记为 prerelease，不作为最新稳定版。
-- 已发布的版本不覆盖安装包；修正通过新版本发布。
+## Release conventions
 
-## 应用内自动更新
+- Stable tags use `v<major>.<minor>.<patch>`, such as `v0.1.1`.
+- Titles contain only the product name and version. Release notes default to English and include system requirements and supported architectures.
+- Installers use `Bubboo-<version>-<arch>.zip` or `.dmg`, with `arm64`, `x86_64`, or `universal` matching the actual build.
+- Releases include `SHA256SUMS`. Third-party licenses and notices stay inside the app bundle; no separate notices attachment is uploaded.
+- Prereleases are marked accordingly and are not designated as the latest stable release.
+- Published installers are not replaced. Corrections ship as a new version.
 
-固定 feed：https://raw.githubusercontent.com/Superoutman/Bubboo/main/appcast.xml
+## In-app updates
 
-Bubboo 使用 Sparkle 检查、下载、验证签名并安装更新。后台下载完成后可在退出时安装，也可点击设置中的绿色版本提示立即升级；关于页提供自动检查和自动下载安装开关。
+Fixed feed: https://raw.githubusercontent.com/Superoutman/Bubboo/main/appcast.xml
 
-当前 appcast 已提供 0.1.1 的签名更新。条目必须指向本仓库已发布的 Release 安装包，并包含 Sparkle EdDSA 签名、构建号、显示版本、最低系统要求及适用的硬件要求。先验证 Release 附件可下载，再更新 appcast；保留兼容旧系统和处理器的历史条目。
+Bubboo uses Sparkle to check for, download, verify, and install updates. Background downloads can be installed when the app quits; clicking the green version prompt lets you update immediately. About provides controls for automatic checks and downloads.
 
-此 feed 地址是已安装客户端依赖的长期入口，不得随意删除或迁移。
+The appcast currently offers the signed 0.1.1 update. Entries must point to published installers in this repository’s Releases and include the Sparkle EdDSA signature, build number, display version, minimum macOS version, and hardware requirements. Verify public downloads before updating the feed, and retain entries needed by older systems and architectures.
+
+Installed clients depend on this feed URL. Do not remove or migrate it without a compatibility plan.

@@ -1,42 +1,44 @@
-<p align="center"><img src="assets/AppIcon.png" width="128" alt="Bubboo 应用图标"></p>
+<p align="center"><img src="assets/AppIcon.png" width="128" alt="Bubboo app icon"></p>
 
 # Bubboo
 
-选中文字，让常用操作就在手边。Bubboo 是原生 macOS 文本选择工具，在选区附近显示轻巧的浮动工具条。
+English | [简体中文](README.zh-CN.md)
 
-## 功能
+Bubboo brings instant actions to selected text on your Mac. A lightweight floating toolbar appears beside your selection.
 
-- 快速复制、粘贴和网页搜索。
-- 导入 `.popclipext` / `.popclipextz` 扩展，支持部分 URL、Shell、AppleScript 与 JavaScript 动作。
-- 原生设置界面，可调整工具条和管理扩展。
-- 中英双语跟随系统首选语言，其他语言默认使用英语。
+## Features
 
-扩展兼容性持续完善，并非所有 PopClip 扩展都受支持。
+- Copy, paste, and search the web.
+- Import `.popclipext` / `.popclipextz` extensions, with support for selected URL, Shell, AppleScript, and JavaScript actions.
+- Customize the toolbar and manage extensions in native macOS settings.
+- English and Simplified Chinese follow your system’s preferred language. Other languages fall back to English.
 
-## 下载与更新
+Extension compatibility is evolving; not all PopClip extensions are supported.
 
-**最低系统要求：macOS 14.0（Sonoma）或更高版本。**
+## Downloads and updates
 
-**当前版本：0.1.1 · Apple Silicon（M 系列芯片）。**
+**Requires macOS 14.0 (Sonoma) or later.**
 
-安装包已完成 Developer ID 签名及 Apple 公证，暂不提供 Intel 版本。
+**Current version: 0.1.1 · Apple Silicon (M-series chips).**
 
-本仓库是 Bubboo 产品说明、官方下载和版本更新的唯一公开来源。应用已接入自动更新：点击设置底部的版本号可检查更新，有新版时显示绿色升级提示；关于页可控制自动检查与自动下载安装。自动更新使用本仓库的 appcast，安装包仍统一来自 Releases。
+The app is signed with Developer ID and notarized by Apple. An Intel build is not currently available.
 
-## 首次使用
+This repository is the official source for product information, downloads, and updates. Installers are available in Releases. Click the version number in Settings to check for updates; a green prompt appears when an update is available. Automatic checks and downloads can be managed in About. The app uses this repository’s appcast for updates.
 
-下载解压后，将 `Bubboo.app` 移至「应用程序」并打开。在「系统设置 → 隐私与安全性 → 辅助功能」中允许 Bubboo，然后选中文字使用工具条。
+## Getting started
 
-新导入或内容变化的扩展默认停用，需在设置中明确启用。脚本扩展可能执行本地操作；仅启用可信来源的扩展。JavaScript 扩展访问网络时需要逐域名授权。
+Extract the download, move `Bubboo.app` to Applications, and open it. Allow Bubboo in **System Settings → Privacy & Security → Accessibility**, then select text to use the toolbar.
 
-## 反馈
+New or modified extensions are disabled until you explicitly enable them. Script extensions can perform local operations, so only enable extensions you trust. JavaScript network access requires approval for each domain.
 
-请通过 [Issues](https://github.com/Superoutman/Bubboo/issues) 提交问题或建议，附上 macOS 版本、Bubboo 版本及复现步骤。请勿上传选中文本、密码或其他隐私信息。
+## Feedback
 
-## 关于本仓库
+Report bugs or suggest improvements through [Issues](https://github.com/Superoutman/Bubboo/issues). Include your macOS version, Bubboo version, and steps to reproduce. Do not share selected text, passwords, or other private information.
 
-此仓库仅承载产品文档及发行文件，应用源码独立维护、不在此公开。公开可见不代表授予源码或品牌素材的开源使用许可。
+## About this repository
 
-Bubboo 为独立产品，与 PopClip 无隶属关系。发行包随附适用的第三方许可和声明。
+This repository contains product documentation and release files. The app’s source code is maintained separately and is not public. Public visibility does not grant an open-source license to the code or brand assets.
 
-发布渠道与文件约定见 [发布渠道](RELEASES.md)。
+Bubboo is an independent product and is not affiliated with PopClip. Third-party licenses and notices are included in the app bundle.
+
+See [Release channels](RELEASES.md) for distribution details.
