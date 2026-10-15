@@ -10,9 +10,11 @@
 - 导入 `.popclipext` / `.popclipextz` 扩展，支持部分 URL、Shell、AppleScript 与 JavaScript 动作。
 - 原生设置界面，可调整工具条和管理扩展。
 
-需要 **macOS 14 或更高版本**。扩展兼容性持续完善，并非所有 PopClip 扩展都受支持。
+扩展兼容性持续完善，并非所有 PopClip 扩展都受支持。
 
 ## 下载与更新
+
+**最低系统要求：macOS 14.0（Sonoma）或更高版本。** 设置界面与浮动工具条的磨砂材质也适用于这一系统范围，无需 macOS 26。
 
 **目前尚未发布公开安装包。** 首个正式版本发布后，安装包、校验值与更新说明将在 [Releases](https://github.com/Superoutman/Bubboo/releases) 提供。
 
