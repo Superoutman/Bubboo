@@ -7,7 +7,7 @@
 - 最新稳定版：https://github.com/Superoutman/Bubboo/releases/latest
 - 稳定版元数据：https://api.github.com/repos/Superoutman/Bubboo/releases/latest
 
-尚未发布正式版本时，最新稳定版页面或 API 可能返回 404；这不代表已存在可下载版本。
+当前稳定版本为 **0.1.1（build 2）**，适用于 macOS 14.0 及更高版本的 Apple Silicon Mac。
 
 ## 发行约定
 
@@ -24,6 +24,6 @@
 
 Bubboo 使用 Sparkle 检查、下载、验证签名并安装更新。后台下载完成后可在退出时安装，也可点击设置中的绿色版本提示立即升级；关于页提供自动检查和自动下载安装开关。
 
-目前 appcast 只有空 channel，表示尚未发布正式安装包。未来条目必须指向本仓库已发布的 Release 安装包，并包含 Sparkle EdDSA 签名、构建号、显示版本、最低系统要求及适用的硬件要求。先验证 Release 附件可下载，再更新 appcast；保留兼容旧系统和处理器的历史条目。
+当前 appcast 已提供 0.1.1 的签名更新。条目必须指向本仓库已发布的 Release 安装包，并包含 Sparkle EdDSA 签名、构建号、显示版本、最低系统要求及适用的硬件要求。先验证 Release 附件可下载，再更新 appcast；保留兼容旧系统和处理器的历史条目。
 
 此 feed 地址是已安装客户端依赖的长期入口，不得随意删除或迁移。
