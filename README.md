@@ -19,8 +19,6 @@
 
 **当前版本：0.1.1 · Apple Silicon（M 系列芯片）。**
 
-[下载 Bubboo 0.1.1](https://github.com/Superoutman/Bubboo/releases/download/v0.1.1/Bubboo-0.1.1-arm64.zip) · [更新说明与校验文件](https://github.com/Superoutman/Bubboo/releases/tag/v0.1.1)
-
 安装包已完成 Developer ID 签名及 Apple 公证，暂不提供 Intel 版本。
 
 本仓库是 Bubboo 产品说明、官方下载和版本更新的唯一公开来源。应用已接入自动更新：点击设置底部的版本号可检查更新，有新版时显示绿色升级提示；关于页可控制自动检查与自动下载安装。自动更新使用本仓库的 appcast，安装包仍统一来自 Releases。
