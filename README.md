@@ -38,9 +38,11 @@ New or modified extensions are disabled until you explicitly enable them. Script
 ## Extensions
 
 <!-- extension-table:start -->
-**31 verified extensions / 已验收扩展。** Download a package and import it in Bubboo Settings, then enable it explicitly. 下载后在设置中导入并启用。
+**31 tested extensions.** Not every PopClip extension works in Bubboo. This list brings tested downloads, minimum App versions and author information together, so you can choose compatible tools without repeated trial installs. Adaptations and limitations are documented through each extension's name link.
 
-Package versions are independent of App versions. 原作者、许可证和适配说明见各扩展名称链接。Amazon code: MIT; icon: Dave Gandy, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [Acceptance and limitations / 验收范围与限制](https://github.com/Superoutman/Bubboo-Extensions#current-stable-collection).
+**Install and update:** Download a `.popclipextz` package below, import it in Settings and enable it. Configure available options there. Bubboo 0.1.4 checks for extension updates when Settings opens, with a six-hour cache. Upgrade manually; your settings are retained and changed content requires renewed approval. Extension versions are independent of App versions; check the minimum App version in the table.
+
+**Compatibility:** Testing does not cover every OS, regional site or third-party service. Required apps must be installed, and websites may require sign-in or restrict availability. Web searches send selected text to the destination site; scripts can perform local operations. Enable extensions you trust. See the [extension guide](https://github.com/Superoutman/Bubboo-Extensions#current-stable-collection) for details.
 
 | 扩展 / Extension | 用途 | 版本 | 最低 Bubboo | 作者 / 许可证 | 下载 |
 | --- | --- | --- | --- | --- | --- |
@@ -75,6 +77,9 @@ Package versions are independent of App versions. 原作者、许可证和适配
 | [URL Encode](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/URLEncode.popclipext/NOTICE.md) | URL 编码 / 解码 | 0.1.0 | 0.1.2 | [Nicholas Moore and contributors; original Perl extension by Brett Terpstra.](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/URLEncode.popclipext/NOTICE.md) · [MIT](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/URLEncode.popclipext/LICENSE.txt) | [下载 / Download](https://github.com/Superoutman/Bubboo-Extensions/releases/download/v0.1.3/URLEncode-0.1.0.popclipextz) |
 | [Wikipedia](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/NOTICE.md) | 维基百科，可选语言站点 | 0.1.0 | 0.1.2 | [Nicholas Moore and contributors](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/NOTICE.md) · [MIT](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/LICENSE.txt) | [下载 / Download](https://github.com/Superoutman/Bubboo-Extensions/releases/download/v0.1.3/Wikipedia-0.1.0.popclipextz) |
 | [YouTube](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/NOTICE.md) | 视频搜索 | 0.1.0 | 0.1.2 | [Nicholas Moore and contributors](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/NOTICE.md) · [MIT](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/LICENSE.txt) | [下载 / Download](https://github.com/Superoutman/Bubboo-Extensions/releases/download/v0.1.3/YouTube-0.1.0.popclipextz) |
+
+**Copyright and attribution:** Extension copyright remains with the original authors and respective rights holders. Inclusion and adaptation do not transfer ownership or imply endorsement by the authors or PopClip. Packages retain attribution, applicable licenses, provenance and change notes. MIT in the table refers to code; artwork may have separate terms—for example, Amazon's icon by Dave Gandy uses [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Review package files before reuse or redistribution. Report [attribution or licensing concerns](https://github.com/Superoutman/Bubboo-Extensions/issues) with the extension name and relevant source information.
+
 <!-- extension-table:end -->
 
 ## Feedback

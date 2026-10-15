@@ -40,9 +40,11 @@
 ## 扩展下载
 
 <!-- extension-table:start -->
-**31 verified extensions / 已验收扩展。** Download a package and import it in Bubboo Settings, then enable it explicitly. 下载后在设置中导入并启用。
+**31 个已验收扩展。** 并非所有 PopClip 扩展都能直接用于 Bubboo。这份列表集中提供经过验收的下载包、最低 App 版本和作者信息，减少自行寻找、判断兼容性和反复试装的麻烦。点击扩展名称可查看适配说明及使用限制。
 
-Package versions are independent of App versions. 原作者、许可证和适配说明见各扩展名称链接。Amazon code: MIT; icon: Dave Gandy, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [Acceptance and limitations / 验收范围与限制](https://github.com/Superoutman/Bubboo-Extensions#current-stable-collection).
+**安装与更新：** 下载下表中的 `.popclipextz` 文件，在设置中导入并启用；有选项的扩展也在设置中配置。Bubboo 0.1.4 打开设置时检查扩展更新，结果缓存 6 小时。手动升级会保留配置，内容变化后需重新启用授权。扩展版本与 App 版本独立，升级前请检查表格中的最低 App 版本。
+
+**兼容性与权限：** 验收不代表所有系统、地区站点和第三方服务均可用。依赖其他 App 的扩展需先安装对应应用，网站可能要求登录或受地区限制。网页搜索会将选中文字发送给对应网站，脚本可能执行本地操作，请仅启用可信扩展。详情见[扩展使用说明](https://github.com/Superoutman/Bubboo-Extensions#current-stable-collection)。
 
 | 扩展 / Extension | 用途 | 版本 | 最低 Bubboo | 作者 / 许可证 | 下载 |
 | --- | --- | --- | --- | --- | --- |
@@ -77,6 +79,9 @@ Package versions are independent of App versions. 原作者、许可证和适配
 | [URL Encode](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/URLEncode.popclipext/NOTICE.md) | URL 编码 / 解码 | 0.1.0 | 0.1.2 | [Nicholas Moore and contributors; original Perl extension by Brett Terpstra.](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/URLEncode.popclipext/NOTICE.md) · [MIT](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/URLEncode.popclipext/LICENSE.txt) | [下载 / Download](https://github.com/Superoutman/Bubboo-Extensions/releases/download/v0.1.3/URLEncode-0.1.0.popclipextz) |
 | [Wikipedia](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/NOTICE.md) | 维基百科，可选语言站点 | 0.1.0 | 0.1.2 | [Nicholas Moore and contributors](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/NOTICE.md) · [MIT](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/Wikipedia.popclipext/LICENSE.txt) | [下载 / Download](https://github.com/Superoutman/Bubboo-Extensions/releases/download/v0.1.3/Wikipedia-0.1.0.popclipextz) |
 | [YouTube](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/NOTICE.md) | 视频搜索 | 0.1.0 | 0.1.2 | [Nicholas Moore and contributors](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/NOTICE.md) · [MIT](https://github.com/Superoutman/Bubboo-Extensions/blob/main/extensions/YouTube.popclipext/LICENSE.txt) | [下载 / Download](https://github.com/Superoutman/Bubboo-Extensions/releases/download/v0.1.3/YouTube-0.1.0.popclipextz) |
+
+**版权与来源：** 扩展版权归原作者及相应权利人所有。Bubboo 的收录、适配和分发不代表拥有原作版权，也不表示原作者或 PopClip 官方认可本项目。每个包保留署名、适用许可证、来源及改动说明。表格中的 MIT 指代码，图标可能适用其他许可，例如 Amazon 图标由 Dave Gandy 创作，适用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。再使用或分发前请查看包内文件；署名或许可有误可通过[扩展仓库 Issues](https://github.com/Superoutman/Bubboo-Extensions/issues)提供扩展名称和相关来源，以便核查。
+
 <!-- extension-table:end -->
 
 ## 反馈
