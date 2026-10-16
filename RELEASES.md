@@ -9,7 +9,7 @@ English | [简体中文](RELEASES.zh-CN.md)
 - [Latest stable release](https://github.com/Superoutman/Bubboo/releases/latest)
 - [Stable release metadata](https://api.github.com/repos/Superoutman/Bubboo/releases/latest)
 
-The current stable version is **0.1.5 (build 6)** for Apple Silicon Macs running macOS 14.0 or later.
+The current stable version is **0.1.6 (build 7)** for Apple Silicon Macs running macOS 14.0 or later.
 
 ## Release conventions
 

@@ -9,7 +9,7 @@
 - 最新稳定版：https://github.com/Superoutman/Bubboo/releases/latest
 - 稳定版元数据：https://api.github.com/repos/Superoutman/Bubboo/releases/latest
 
-当前稳定版本为 **0.1.5（build 6）**，适用于 macOS 14.0 及更高版本的 Apple Silicon Mac。
+当前稳定版本为 **0.1.6（build 7）**，适用于 macOS 14.0 及更高版本的 Apple Silicon Mac。
 
 ## 发行约定
 

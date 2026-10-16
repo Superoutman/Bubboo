@@ -21,7 +21,7 @@ Bubboo brings instant actions to selected text on your Mac. A lightweight floati
 
 **Requires macOS 14.0 (Sonoma) or later.**
 
-**Current version: 0.1.4 · Apple Silicon (M-series chips).**
+**Current version: 0.1.6 · Apple Silicon (M-series chips).**
 
 The app is signed with Developer ID and notarized by Apple. An Intel build is not currently available.
 
