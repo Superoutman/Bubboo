@@ -41,7 +41,7 @@ Download an extension package, then choose **Import Extension** in Bubboo Settin
 
 Bubboo supports many PopClip extensions, but compatibility depends on the extension and the target app. Some extensions use PopClip features that Bubboo does not yet support or require another app or online service. Install packages from sources you trust.
 
-Bubboo does not maintain or distribute extension packages. Bubboo and PopClip are independent products.
+Bubboo no longer maintains a separate curated extension catalog. Bubboo and PopClip are independent products.
 
 ## Feedback
 

@@ -45,7 +45,7 @@ Bubboo 是一款更轻巧、美观的原生 macOS 划词工具，可作为 PopCl
 
 Bubboo 支持不少 PopClip 扩展，但具体能否运行取决于扩展和目标 App。部分扩展依赖 Bubboo 尚未支持的 PopClip 功能、其他应用或在线服务。请只安装可信来源的扩展。
 
-Bubboo 暂不维护或分发扩展包；Bubboo 与 PopClip 是独立产品。
+Bubboo 暂不继续维护独立精选扩展目录；Bubboo 与 PopClip 是独立产品。
 
 ## 反馈
 
