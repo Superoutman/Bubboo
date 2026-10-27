@@ -23,7 +23,7 @@ Bubboo 是一款更轻巧、美观的原生 macOS 划词工具，可作为 PopCl
 
 **最低系统要求：macOS 14.0（Sonoma）或更高版本。**
 
-**当前版本：0.1.6 · Apple Silicon（M 系列芯片）。**
+**当前版本：0.1.7 · Apple Silicon（M 系列芯片）。**
 
 安装包已完成 Developer ID 签名及 Apple 公证，暂不提供 Intel 版本。
 
