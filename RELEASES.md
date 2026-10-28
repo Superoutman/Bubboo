@@ -9,7 +9,7 @@ English | [简体中文](RELEASES.zh-CN.md)
 - [Latest stable release](https://github.com/Superoutman/Bubboo/releases/latest)
 - [Stable release metadata](https://api.github.com/repos/Superoutman/Bubboo/releases/latest)
 
-The current stable version is **0.1.6 (build 7)** for Apple Silicon Macs running macOS 14.0 or later.
+The current stable version is **0.1.8 (build 12)** for Apple Silicon Macs running macOS 14.0 or later.
 
 ## Release conventions
 
@@ -26,6 +26,6 @@ Fixed feed: https://raw.githubusercontent.com/Superoutman/Bubboo/main/appcast.xm
 
 Bubboo uses Sparkle to check for, download, verify, and install updates. Background downloads can be installed when the app quits; clicking the green version prompt lets you update immediately. About provides controls for automatic checks and downloads.
 
-The appcast currently offers the signed 0.1.5 update. Entries must point to published installers in this repository’s Releases and include the Sparkle EdDSA signature, build number, display version, minimum macOS version, and hardware requirements. Verify public downloads before updating the feed, and retain entries needed by older systems and architectures.
+The appcast offers the signed 0.1.8 update and retains prior versions. Entries must point to published installers in this repository’s Releases and include the Sparkle EdDSA signature, build number, display version, minimum macOS version, and hardware requirements. Verify public downloads before updating the feed, and retain entries needed by older systems and architectures.
 
 Installed clients depend on this feed URL. Do not remove or migrate it without a compatibility plan.
