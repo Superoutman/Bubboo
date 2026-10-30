@@ -3,6 +3,15 @@
     <channel>
         <title>Bubboo</title>
         <item>
+            <title>0.1.9</title>
+            <pubDate>Fri, 30 Oct 2026 15:01:40 +0800</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Superoutman/Bubboo/releases/download/v0.1.9/Bubboo-0.1.9-arm64.zip" length="8351334" type="application/octet-stream" sparkle:edSignature="h0Sa/b1Bi+GpunFlQ7lbpCAcrZfrYVz388cOAkExC7ZpNVki6quqjM9X631gTLvcEItEBKnsexl9GfQ/8IHmAg=="/>
+        </item>
+        <item>
             <title>0.1.8</title>
             <pubDate>Wed, 28 Oct 2026 17:51:23 +0800</pubDate>
             <sparkle:version>12</sparkle:version>
