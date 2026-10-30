@@ -9,6 +9,7 @@ Bubboo is a polished, native macOS alternative to PopClip. Select text to reveal
 ## Features
 
 - Copy, paste, and search the web.
+- Open a selected web address directly; a single URL uses Open Link in place of Search.
 - Import `.popclipext` / `.popclipextz` extensions, with support for selected URL, Shell, AppleScript, and JavaScript actions.
 - Customize the toolbar and manage extensions in native macOS settings.
 - Built-in actions show a lock instead of a delete button. The Dock icon appears while Settings is open.
@@ -19,7 +20,7 @@ Bubboo is a polished, native macOS alternative to PopClip. Select text to reveal
 
 **Requires macOS 14.0 (Sonoma) or later.**
 
-**Current version: 0.1.8 · Apple Silicon (M-series chips).**
+**Current version: 0.1.9 · Apple Silicon (M-series chips).**
 
 The app is signed with Developer ID and notarized by Apple. An Intel build is not currently available.
 

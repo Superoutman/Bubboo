@@ -9,6 +9,7 @@ Bubboo 是一款更轻巧、美观的原生 macOS 划词工具，可作为 PopCl
 ## 功能
 
 - 快速复制、粘贴和网页搜索。
+- 可直接打开选中的网址；选中单个链接时以「打开链接」替代搜索。
 - 导入 `.popclipext` / `.popclipextz` 扩展，支持部分 URL、Shell、AppleScript 与 JavaScript 动作。
 - 原生设置界面，可调整工具条和管理扩展。
 - 中英双语跟随系统首选语言，其他语言默认使用英语。
@@ -23,7 +24,7 @@ Bubboo 是一款更轻巧、美观的原生 macOS 划词工具，可作为 PopCl
 
 **最低系统要求：macOS 14.0（Sonoma）或更高版本。**
 
-**当前版本：0.1.8 · Apple Silicon（M 系列芯片）。**
+**当前版本：0.1.9 · Apple Silicon（M 系列芯片）。**
 
 安装包已完成 Developer ID 签名及 Apple 公证，暂不提供 Intel 版本。
 
