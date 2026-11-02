@@ -20,7 +20,7 @@ Bubboo is a polished, native macOS alternative to PopClip. Select text to reveal
 
 **Requires macOS 14.0 (Sonoma) or later.**
 
-**Current version: 0.1.9 · Apple Silicon (M-series chips).**
+**Current version: 0.1.10 · Apple Silicon (M-series chips).**
 
 The app is signed with Developer ID and notarized by Apple. An Intel build is not currently available.
 
